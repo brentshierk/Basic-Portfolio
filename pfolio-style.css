@@ -120,7 +120,6 @@ footer {
   opacity: .8;
   margin-bottom: 40px;
 }
-
 .box5 {
   clear: both;
   overflow: auto;
@@ -130,6 +129,8 @@ footer {
   width: 200px;
   opacity: .8;
 }
+
+
 .link1:link, .link1:visited {
     background-color: #4aaaa5;
     color: white;
